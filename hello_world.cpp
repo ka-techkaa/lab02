@@ -1,6 +1,6 @@
 #include <iostream>
-#include <string>//start
-//comment
+#include <string>//нач
+//комент
 int main() {
     std::string name;
     std::cout << "Enter your name: ";
@@ -8,4 +8,4 @@ int main() {
     std::cout << "Hello world from " << name << std::endl;
     return 0; 
 }
-//end
+//кон
