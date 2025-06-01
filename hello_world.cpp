@@ -1,6 +1,6 @@
 #include <iostream>
-#include <string>
-
+#include <string>//start
+//comment
 int main() {
     std::string name;
     std::cout << "Enter your name: ";
@@ -8,3 +8,4 @@ int main() {
     std::cout << "Hello world from " << name << std::endl;
     return 0; 
 }
+//end
